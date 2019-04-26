@@ -1,0 +1,9 @@
+import React from 'react'
+
+const right_arrow = props => (
+  <svg width={15} height={15} viewBox="0 0 24 24" {...props}>
+    <path d="M6.028 0v6.425L11.577 12l-5.549 5.575V24l11.944-12z" />
+  </svg>
+)
+
+export default right_arrow

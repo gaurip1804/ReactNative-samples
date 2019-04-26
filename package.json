@@ -1,0 +1,40 @@
+{
+  "name": "ReactNativeDemoApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-art": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native": "0.59.4",
+    "react-native-action-button": "^2.8.5",
+    "react-native-cardview28": "^2.0.3",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-floating-action": "^1.14.2",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-maps": "^0.24.1",
+    "react-native-paper": "^2.15.2",
+    "react-native-progress-circle": "^2.0.1",
+    "react-native-switch": "^1.5.0",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-web": "^0.11.2",
+    "react-navigation": "^3.6.1",
+    "react-navigation-material-bottom-tabs": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.3",
+    "@babel/runtime": "7.4.3",
+    "babel-jest": "24.7.1",
+    "jest": "24.7.1",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,50 @@
+{
+	"Data": {
+		"Table": [{
+			"EnquiryMonth": 4,
+			"EnquiryYear": 2019,
+			"TotalEnquiryCount": 6,
+			"EnquiryBookingCount": 0,
+			"EnquiryOpenBookingCount": 0,
+			"EnquiryInvoiceCount": 0,
+			"OpenEnquiryCount": 6,
+			"PartialEnquiryCount": 0,
+			"PendingActivitiesCount": 6,
+			"TodayActivitiesCount": 0,
+			"FutureActivityCount": 0,
+			"HotEnquiryCount": 4,
+			"WarmEnquiryCount": 1,
+			"ColdEnquiryCount": 0,
+			"TestRideComplete": 0
+		}],
+		"Table1": [{
+				"Model": 764368,
+				"ModelName": "KTM 390 DUKE",
+				"TotalEnquiryCount": 6,
+				"TotalInvoiceCount": 0,
+				"ConversionPercetage": 0.00,
+				"TotalBookingCount": 0,
+				"OrderIndex": 99
+			},
+			{
+				"Model": 0,
+				"ModelName": "Total Count",
+				"TotalEnquiryCount": 6,
+				"TotalInvoiceCount": 0,
+				"ConversionPercetage": 0.00,
+				"TotalBookingCount": 0,
+				"OrderIndex": 100
+			}
+		]
+	},
+	"IsRequestSuccessful": true,
+	"TimeStamp": null,
+	"LastErrorTitle": null,
+	"LastErrorMessage": null,
+	"LastErrorDetails": null,
+	"ErrorCode": 0,
+	"ErrorID": null,
+	"RequestKey": "2b360c46-7201-4340-a5aa-bf7b32a19570",
+	"ServerProcessingTicks": 1340036,
+	"ProcessingServer": "APM-TESTING-APP101-02f0101bccc84863a04c87aa0ad39c49"
+}
